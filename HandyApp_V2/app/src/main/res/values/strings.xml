@@ -1,0 +1,60 @@
+<resources>
+
+    <!--    Login SignUp-->
+    <string name="app_name">HandyApp_V2</string>
+    <string name="register">Register</string>
+    <string name="i_am_a">I am a</string>
+    <string name="seller">SELLER</string>
+    <string name="buyer">BUYER</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="create_password">Create Password</string>
+    <string name="enter_password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="or_sign_up_with">or Sign Up with</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="already_a_user">Already a User?</string>
+    <string name="login">Login</string>
+    <string name="username_or_email">Email</string>
+    <string name="or_login_with">or Login With</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="new_user">New User?</string>
+
+    <!--Profile-->
+    <string name="profile">Profile</string>
+    <string name="mohammed_">Mohammed Halbouni</string>
+    <string name="name">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="example123">123@example.com</string>
+    <string name="password">Password</string>
+    <string name="pstar">********</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="_91_9878977771">+1(226)-699-999</string>
+    <string name="price_example">$25 /hr</string>
+
+    <!--Categories-->
+    <string name="categories">Categories</string>
+    <string name="all_categories">All Categories</string>
+    <string name="plumbing">Plumbing</string>
+
+    <!--Search-->
+    <string name="search_for_services"><![CDATA[Search for Services]]></string>
+    <string name="top_searches">Top Searches</string>
+    <string name="browse_categories">Browse Categories</string>
+    <string name="home">Home</string>
+    <string name="inbox">Inbox</string>
+    <string name="search">Search</string>
+    <string name="enter_address">Enter Address</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="_5_0">5.0</string>
+    <string name="_75_00">$75.00/hr</string>
+    <string name="or_sign_in_with">or Sign In with</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="publishablekey">sk_test_pk_test_51KaeHVH2uQT2W8eXtF7YgUv6J1T617qWJ73hbQ3HxMpldJDD1H7CGvMplRiNhjq9UsY6B0NjlZuEJ40m8CL7vIGk00cWeYkRyz</string>
+
+
+</resources>
